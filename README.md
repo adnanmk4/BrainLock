@@ -35,3 +35,8 @@ brainlock/
 - Security answers are also bcrypt-hashed before storage
 - All comparisons use constant-time `checkpw` to prevent timing attacks
 - No plain-text secrets are ever written to disk
+
+
+<img width="719" height="678" alt="image" src="https://github.com/user-attachments/assets/7166c3cb-f1b5-4c54-9eb3-ab6eb734edf3" />
+<img width="492" height="430" alt="image" src="https://github.com/user-attachments/assets/24749686-f6b1-47bf-8fa4-a4daca02e156" />
+
