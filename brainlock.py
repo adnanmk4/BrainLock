@@ -1,9 +1,3 @@
-"""
-BrainLock - A Beautiful Password Manager / Auth App
-Author: Senior Dev
-Tech: PyQt5 + SQLite + bcrypt
-"""
-
 import sys
 import sqlite3
 import bcrypt
