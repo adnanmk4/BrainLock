@@ -39,4 +39,8 @@ brainlock/
 
 <img width="719" height="678" alt="image" src="https://github.com/user-attachments/assets/7166c3cb-f1b5-4c54-9eb3-ab6eb734edf3" />
 <img width="492" height="430" alt="image" src="https://github.com/user-attachments/assets/24749686-f6b1-47bf-8fa4-a4daca02e156" />
+<img width="548" height="567" alt="image" src="https://github.com/user-attachments/assets/6cb1724f-5b18-4009-956e-d0fe40dd52a5" />
+<img width="493" height="629" alt="image" src="https://github.com/user-attachments/assets/79a2daf1-b598-4539-9950-f9267565f697" />
+
+
 
